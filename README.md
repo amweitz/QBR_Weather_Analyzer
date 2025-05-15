@@ -2,7 +2,7 @@
 
 **Note:** This project uses NFL weekly QBR statistics from **2013 through 2023**, including only games where the QBR rating was finalized.
 
-This project visualizes the relationship between NFL quarterback performance (measured by QBR) and outdoor game temperatures.  
+This project visualizes the relationship between NFL quarterback performance (measured by QBR) and game temperatures.  
 It uses data from two main sources: weekly QBR statistics and weather conditions during NFL games.
 
 ## 📊 Features
