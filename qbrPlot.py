@@ -12,9 +12,9 @@ from tkinter import ttk          # Themed widgets like Combobox
 # Connect to the PostgreSQL database using the given credentials
 conn = psycopg2.connect(
     dbname="qbr",
-    user="andrewweitz",
-    host="localhost",
-    port="5432"
+    user="insert username",
+    host="insert host",
+    port="insert port"
 )
 cur = conn.cursor()  # Create a cursor to perform database operations
 
